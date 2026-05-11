@@ -22,4 +22,4 @@ const port = process.env.PORT || 8000;
 app.use("/images", express.static("images"));
 app.use(router);
 
-app.listen(port, () => console.log(`Backend running on port ${port}`));
+app.listen(port, () => (`Backend running on port ${port}`));
