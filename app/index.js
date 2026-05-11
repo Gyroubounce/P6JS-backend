@@ -9,7 +9,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000",
-      "https://sportsee-frontend.vercel.app"
+      "https://p6-js-frontend.vercel.app"
     ],
     credentials: true,
   })
