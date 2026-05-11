@@ -1,6 +1,6 @@
 const jwt = require("jsonwebtoken");
 
-const SECRET_KEY = "your-secret-key-12345"; // In a real app, this would be in environment variables
+const SECRET_KEY = process.env.JWT_SECRET || "dev-secret";
 
 const handleNoUserData = (res, userData) => {
   if (!userData) {

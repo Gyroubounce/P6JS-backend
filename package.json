@@ -2,7 +2,7 @@
   "name": "p6-front-end-dashboard",
   "version": "1.0.0",
   "description": "Backend for the 6th project of the new path Front-end Developper",
-  "main": "index/app.js",
+  "main": "app/index.js",
   "repository": "https://github.com/OpenClassrooms-Student-Center/P6JS",
   "author": "atoulmet <alexia.toulmet@gmail.com>",
   "license": "MIT",
