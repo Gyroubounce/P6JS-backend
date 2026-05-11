@@ -7,7 +7,7 @@
     "lastName": "Martin",
     "age": 32,
     "gender": "female",
-    "profilePicture": "http://localhost:8000/images/sophie.jpg",
+    "profilePicture": "sophie.jpg",
     "height": 165,
       "weight": 60,
       "createdAt": "2025-01-01"
@@ -375,7 +375,7 @@
       "gender": "female",
       "height": 170,
       "weight": 62,
-      "profilePicture": "http://localhost:8000/images/emma.jpg",
+      "profilePicture": "emma.jpg",
       "createdAt": "2025-01-01"
     },
     "username": "emmaleroy",
@@ -1000,7 +1000,7 @@
       "gender": "male",
       "height": 180,
       "weight": 85,
-      "profilePicture": "http://localhost:8000/images/marc.jpg",
+      "profilePicture": "marc.jpg",
       "createdAt": "2025-01-01"
     },
     "username": "marcdubois",
